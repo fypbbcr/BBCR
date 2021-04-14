@@ -1,0 +1,8 @@
+.background{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 2px dashed #333;
+    background-size: cover;
+    
+}
